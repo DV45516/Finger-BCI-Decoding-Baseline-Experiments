@@ -15,7 +15,7 @@
 
 # %%
 
-from Functions import load_and_filter_data, generate_paths, train_models, evaluate_model, generate_eval_paths
+from Functions import load_and_filter_data, generate_paths, train_models, evaluate_model
 import tensorflow as tf
 
 import os
