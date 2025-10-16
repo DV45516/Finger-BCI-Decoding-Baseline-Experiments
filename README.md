@@ -14,4 +14,6 @@ Army Research Laboratory (ARL) EEGModels project repository: https://github.com/
 
 ## Changes
 
-Run the script file `run.sh` to run the code for all the subjects to train the base model and finetune it which then will save all the evaluation results one by one in a csv file.
+Added Evaluation code which was missing. Run the script file `run.sh` to run the code for all the subjects to train the base model and finetune it which then will save all the evaluation results one by one in a csv file.
+
+The dependencies used are given in `requirements.txt`.
