@@ -11,3 +11,7 @@ This work was supported by the National Institutes of Health via grants NS124564
 [1] Lawhern, V. J., Solon, A. J., Waytowich, N. R., Gordon, S. M., Hung, C. P., & Lance, B. J. EEGNet: a compact convolutional neural network for EEG-based brain-computer interfaces. Journal of neural engineering, 15, 056013. (2018).
 
 Army Research Laboratory (ARL) EEGModels project repository: https://github.com/vlawhern/arl-eegmodels
+
+## Changes
+
+Run the script file `run.sh` to run the code for all the subjects to train the base model and finetune it which then will save all the evaluation results one by one in a csv file.
